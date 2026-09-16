@@ -75,7 +75,7 @@ Etapa em que o lojista define como pretende utilizar o LiHub. A plataforma está
 
 <p align="center">
   <img src="images/tipo-do-negocio-lihub.PNG" alt="Configuração do tipo de negócio no LiHub" width="320">
-  
+  </p> 
 ### Painel da modalidade Produtos
 
 Visão do painel do LiHub configurado para negócios que trabalham com produtos. O dashboard reúne atalhos para cadastro e gestão de produtos, nova venda, vitrine online, resumo do negócio e etapas de preparação da loja.
@@ -84,5 +84,3 @@ Visão do painel do LiHub configurado para negócios que trabalham com produtos.
   <img src="images/painel-produto-lihub.png" alt="Painel da modalidade Produtos do LiHub" width="320">
 </p>
 
-
-</p>
