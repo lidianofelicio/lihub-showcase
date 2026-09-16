@@ -81,7 +81,7 @@ Etapa em que o lojista define como pretende utilizar o LiHub. A plataforma está
 Visão do painel do LiHub configurado para negócios que trabalham com produtos. O dashboard reúne atalhos para cadastro e gestão de produtos, nova venda, vitrine online, resumo do negócio e etapas de preparação da loja.
 
 <p align="center">
-  <img src="images/painel-produto-lihub.PNG" alt="Painel da modalidade Produtos do LiHub" width="320">
+  <img src="images/painel-produto-lihub.png" alt="Painel da modalidade Produtos do LiHub" width="320">
 </p>
 
 
