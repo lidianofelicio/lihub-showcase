@@ -68,3 +68,29 @@ Tela de acesso do LiHub — autenticação de usuários e solicitação de acess
 <p align="center">
   <img src="images/login-lihub.PNG" alt="Tela de acesso do LiHub" width="320">
 </p>
+
+### Painel da modalidade Produtos
+
+Visão do painel do LiHub configurado para negócios que trabalham com produtos. O dashboard reúne atalhos para cadastro e gestão de produtos, nova venda, vitrine online, resumo do negócio e etapas de preparação da loja.
+
+<p align="center">
+  <img src="images/painel-inicial-lihub.png" alt="Painel da modalidade Produtos do LiHub" width="320">
+</p>
+
+### Configuração do tipo de negócio
+
+Etapa em que o lojista define como pretende utilizar o LiHub. A plataforma está sendo estruturada para adaptar o painel conforme a operação escolhida: produtos, serviços ou ambos.
+
+<p align="center">
+  <img src="images/tipo-do-negocio-lihub.PNG" alt="Configuração do tipo de negócio no LiHub" width="320">
+  
+### Painel da modalidade Produtos
+
+Visão do painel do LiHub configurado para negócios que trabalham com produtos. O dashboard reúne atalhos para cadastro e gestão de produtos, nova venda, vitrine online, resumo do negócio e etapas de preparação da loja.
+
+<p align="center">
+  <img src="images/painel-produto-lihub.PNG" alt="Painel da modalidade Produtos do LiHub" width="320">
+</p>
+
+
+</p>
