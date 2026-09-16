@@ -59,6 +59,10 @@ Durante o desenvolvimento do LiHub, venho praticando:
 
 O código-fonte principal permanece privado, pois o LiHub é um projeto próprio com intenção comercial.
 
-## Imagens
+## Imagens do projeto
 
-Adicione aqui screenshots das principais telas do projeto.
+### Tela de acesso
+
+Tela de acesso do LiHub — autenticação de usuários e solicitação de acesso para negócios parceiros.
+
+![Tela de acesso do LiHub](Imagens/login-lihub.png)
