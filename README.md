@@ -66,5 +66,5 @@ O código-fonte principal permanece privado, pois o LiHub é um projeto próprio
 Tela de acesso do LiHub — autenticação de usuários e solicitação de acesso para negócios parceiros.
 
 <p align="center">
-  <img src="images/login-lihub.PNG" alt="Tela de acesso do LiHub" width="320">
+  <img src="images/login-lihub.png" alt="Tela de acesso do LiHub" width="320">
 </p>
