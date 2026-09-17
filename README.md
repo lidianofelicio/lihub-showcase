@@ -8,7 +8,7 @@ O LiHub está sendo desenvolvido com foco em organização de produtos, estoque 
 
 O projeto surgiu como uma solução própria para centralizar funcionalidades importantes de uma operação comercial em uma única plataforma.
 
-Atualmente, o LiHub possui funcionalidades de frontend já desenvolvidas e está evoluindo para backend, autenticação e persistência de dados.
+Atualmente, a modalidade Produtos é a frente mais avançada do desenvolvimento. A plataforma está sendo estruturada para também atender negócios, serviços ou ambos, possui funcionalidades de frontend já desenvolvidas e está evoluindo para backend, autenticação e persistência de dados.
 
 ## Funcionalidades em desenvolvimento
 
