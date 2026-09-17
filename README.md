@@ -90,7 +90,7 @@ Visão do painel do LiHub configurado para negócios que trabalham com produtos.
 Tela de gerenciamento de produtos do LiHub, com busca, filtros por status, controle de estoque, preços, cupons e geração de etiquetas.
 
 <p align="center">
-  <img src="images/meus-produtos-lihub.png" alt="Gestão de produtos do LiHub" width="320">
+  <img src="images/meus-produtos-lihub.PNG" alt="Gestão de produtos do LiHub" width="320">
 </p>
 
 ### Vitrine pública
@@ -98,7 +98,7 @@ Tela de gerenciamento de produtos do LiHub, com busca, filtros por status, contr
 Visualização da vitrine do negócio, com identidade personalizável, categorias, destaques e produtos disponíveis para o cliente.
 
 <p align="center">
-  <img src="images/vitrine-lihub.png" alt="Vitrine pública do LiHub" width="320">
+  <img src="images/vitrine-lihub.PNG" alt="Vitrine pública do LiHub" width="320">
 </p>
 
 ### Sacola de compras
@@ -106,6 +106,6 @@ Visualização da vitrine do negócio, com identidade personalizável, categoria
 Fluxo de compra da vitrine, permitindo revisar itens, editar ou remover produtos e avançar para a finalização do pedido.
 
 <p align="center">
-  <img src="images/sacola-lihub.png" alt="Sacola de compras do LiHub" width="320">
+  <img src="images/sacola-lihub.PNG" alt="Sacola de compras do LiHub" width="320">
 </p>
 
